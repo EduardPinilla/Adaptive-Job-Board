@@ -20,4 +20,5 @@
 ## Open-source showcase - check what we do! ##
 
 **_[Reactive Trader Cloud Demo](https://web-demo.adaptivecluster.com/)_**
+
 **_[Reactive Trader Cloud Code](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)_**
