@@ -11,4 +11,4 @@
 
 ## Our Technical Stack ##
 
-[Stackshare](https://stackshare.io/AFC/adaptive-financial-consulting)
+**_[Stackshare](https://stackshare.io/AFC/adaptive-financial-consulting)_**
