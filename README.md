@@ -1,4 +1,4 @@
-# Adaptive-Job-Board
+# Adaptive-Job-Board :globe_with_meridians: :computer:
 ## Open vacancies at Adaptive Financial Consulting ##
 
 | London  | Barcelona | New York City | Montreal |
