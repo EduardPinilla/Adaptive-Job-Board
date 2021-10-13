@@ -7,4 +7,4 @@ Open vacancies at Adaptive Financial Consulting
 
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3388634)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100163)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100155) | [Java Developer](https://weareadaptive.com/careers/jobs/?job=2581405)
 
-| ------------- | ------------- | ------------- | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3426802) |
+| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3426802) |
