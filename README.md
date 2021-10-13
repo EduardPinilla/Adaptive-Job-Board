@@ -11,4 +11,4 @@
 
 ## Our Technical Stack ##
 
-![Java](https://i.blogs.es/8d2420/650_1000_java/1366_2000.png)
+![Java](https://i.blogs.es/8d2420/650_1000_java/1366_2000.png) ![JS](https://integraconsultores.es/wp-content/uploads/2018/07/kisspng-cascading-style-sheets-javascript-html-css3-jquery-logo-5ac78cfa148694.1772279515230271940841.jpg) ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)
