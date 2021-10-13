@@ -13,7 +13,7 @@
 
 **_[Stackshare](https://stackshare.io/AFC/adaptive-financial-consulting)_**
 
-## What people think about us ##
+## What people think about us ## :speaking_head:
 
 **_[Glassdoor](https://www.glassdoor.es/Overview/Working-at-Adaptive-Financial-Consulting-EI_IE833383.11,40.htm?countryRedirect=true)_**
 
