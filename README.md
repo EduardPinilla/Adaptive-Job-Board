@@ -12,3 +12,12 @@
 ## Our Technical Stack ##
 
 **_[Stackshare](https://stackshare.io/AFC/adaptive-financial-consulting)_**
+
+## What people think about us ##
+
+**_[Glassdoor](https://www.glassdoor.es/Overview/Working-at-Adaptive-Financial-Consulting-EI_IE833383.11,40.htm?countryRedirect=true)_**
+
+## Open-source showcase - check what we do! ##
+
+**_[Reactive Trader Cloud Demo](https://web-demo.adaptivecluster.com/)_**
+**_[Reactive Trader Cloud Code](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)_**
