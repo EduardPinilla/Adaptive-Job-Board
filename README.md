@@ -9,15 +9,15 @@
 | | | [Fullstack Developer](https://weareadaptive.com/careers/jobs/?job=3242108) | [Talent Acquisition Specialist](https://weareadaptive.com/careers/jobs/?job=3459513) |
 | | | [Product Owner](https://weareadaptive.com/careers/jobs/?job=3010569) |
 
-## Our Technical Stack ##
+## Our Technical Stack 	:woman_technologist: ##
 
 **_[Stackshare](https://stackshare.io/AFC/adaptive-financial-consulting)_**
 
-## What people think about us ## :speaking_head:
+## What people think about us :speaking_head: ## 
 
 **_[Glassdoor](https://www.glassdoor.es/Overview/Working-at-Adaptive-Financial-Consulting-EI_IE833383.11,40.htm?countryRedirect=true)_**
 
-## Open-source showcase - check what we do! ##
+## Open-source showcase - check what we do! :detective: ##
 
 **_[Reactive Trader Cloud Demo](https://web-demo.adaptivecluster.com/)_**
 
