@@ -3,7 +3,7 @@
 
 | London :uk:  | Barcelona :es: | New York City :us: | Montreal :canada: |
 | ------------- | ------------- | ------------- | ------------- |
-| [React Developer](https://weareadaptive.com/careers/jobs/?job=3100169)  | [React Developer](https://weareadaptive.com/careers/jobs/?job=3388634)  | [React Developer](https://weareadaptive.com/careers/jobs/?job=3481569) | [React Developer](https://weareadaptive.com/careers/jobs/?job=3524790) |
+| [React Developer](https://weareadaptive.com/careers/jobs/?job=3100169)  | [React Developer](https://weareadaptive.com/careers/jobs/?job=3334594)  | [React Developer](https://weareadaptive.com/careers/jobs/?job=3481569) | [React Developer](https://weareadaptive.com/careers/jobs/?job=3524790) |
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3388634)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100163)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100155) | [Java Developer](https://weareadaptive.com/careers/jobs/?job=2581405)
 | | | [Angular Developer](https://weareadaptive.com/careers/jobs/?job=2750119) | [Talent Acquisition Specialist](https://weareadaptive.com/careers/jobs/?job=3459513) |
 | | | [Fullstack Developer](https://weareadaptive.com/careers/jobs/?job=3242108) | |
