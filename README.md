@@ -10,7 +10,6 @@
 | [QA Web Automation](https://weareadaptive.com/careers/jobs/?job=3736437) | [QA Web Automation](https://weareadaptive.com/careers/jobs/?job=3753837) |  |
 | [QA Mobile Automation](https://weareadaptive.com/careers/jobs/?job=3587587) | [QA Mobile Automation](https://weareadaptive.com/careers/jobs/?job=3622085)| |
 | | | [Fullstack Developer](https://weareadaptive.com/careers/jobs/?job=3242108) | |
-
 | | | [Product Owner](https://weareadaptive.com/careers/jobs/?job=3010569) |
 
 
