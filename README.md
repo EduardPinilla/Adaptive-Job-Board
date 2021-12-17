@@ -8,6 +8,7 @@
 | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629509)| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629507) |
 | [Business Analyst](https://weareadaptive.com/careers/jobs/?job=3560391) | | [Business Analyst](https://weareadaptive.com/careers/jobs/?job=3719744) | [Talent Acquisition Specialist](https://weareadaptive.com/careers/jobs/?job=3459513) |
 | [QA Web Automation](https://weareadaptive.com/careers/jobs/?job=3736437) | [QA Web Automation](https://weareadaptive.com/careers/jobs/?job=3753837) |  |
+| [QA Mobile Automation](https://weareadaptive.com/careers/jobs/?job=3587587) | [QA Mobile Automation](https://weareadaptive.com/careers/jobs/?job=3622085)| |
 | | | [Fullstack Developer](https://weareadaptive.com/careers/jobs/?job=3242108) | |
 | | | [Product Owner](https://weareadaptive.com/careers/jobs/?job=3010569) |
 
