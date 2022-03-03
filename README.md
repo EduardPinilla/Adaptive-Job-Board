@@ -20,7 +20,7 @@
 
 ## What people think about us :speaking_head: ## 
 
-**_[Glassdoor](https://www.glassdoor.es/Overview/Working-at-Adaptive-Financial-Consulting-EI_IE833383.11,40.htm?countryRedirect=true)_**
+**_[Glassdoor](www.glassdoor.co.uk/Reviews/Adaptive-Financial-Consulting-Reviews-E833383.htm)_**
 
 ## Open-source showcase - check what we do! :detective: ##
 
