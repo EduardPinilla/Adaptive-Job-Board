@@ -8,7 +8,7 @@
 | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) || [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629507) |
 | | | [Fullstack Developer](https://weareadaptive.com/careers/jobs/?job=3242108) |
 |[Engagement Manager](https://weareadaptive.com/careers/jobs/?job=4037631)| |||
-| [Business Analyst](https://weareadaptive.com/careers/jobs/?job=3719744) ||||
+|||[Business Analyst](https://weareadaptive.com/careers/jobs/?job=3719744) ||
 |[Performance Engineer](https://weareadaptive.com/careers/jobs/?job=3588665)|||
 |[Mobile UX Designer](https://weareadaptive.com/careers/jobs/?job=3580610)|||
 
