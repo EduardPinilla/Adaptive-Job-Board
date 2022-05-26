@@ -5,7 +5,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 |  | [React Developer](https://weareadaptive.com/careers/jobs/?job=3334594)  | [React Developer](https://weareadaptive.com/careers/jobs/?job=3481569) | [React Developer](https://weareadaptive.com/careers/jobs/?job=3524790) |
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3388634) | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100163)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3701706) | [Java Developer](https://weareadaptive.com/careers/jobs/?job=2581405)
-| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629509)| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629507) |
+| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) || [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629507) |
 | | | [Business Analyst](https://weareadaptive.com/careers/jobs/?job=3719744) | [Talent Acquisition Specialist](https://weareadaptive.com/careers/jobs/?job=3459513) |
 |  |  | [Fullstack Developer](https://weareadaptive.com/careers/jobs/?job=3242108) |
 |  |  | [Product Owner](https://weareadaptive.com/careers/jobs/?job=3010569) |
