@@ -6,7 +6,6 @@
 |  |   | [React Developer](https://weareadaptive.com/careers/jobs/?job=3481569) | [React Developer](https://weareadaptive.com/careers/jobs/?job=3524790) |
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3388634) | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100163)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3701707) |
 | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) |[Lead Java Developer](https://weareadaptive.com/careers/jobs/?job=3701706)| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=4280927) |
-|||||
 |[Mobile UX Designer](https://weareadaptive.com/careers/jobs/?job=3580610)||[UX/UI Designer](https://weareadaptive.com/careers/jobs/?job=3701809)||
 
 
