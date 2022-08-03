@@ -5,11 +5,11 @@
 | ------------- | ------------- | ------------- | ------------- |
 |  |   | [React Developer](https://weareadaptive.com/careers/jobs/?job=3481569) | [React Developer](https://weareadaptive.com/careers/jobs/?job=3524790) |
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3388634) | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100163)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3701707) |
-| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) |[Lead Java Developer](https://weareadaptive.com/careers/jobs/?job=3701706)| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=4280927) |
+| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) |[Lead Java Developer](https://weareadaptive.com/careers/jobs/?job=3701706)| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629507) |
 |||[UX/UI Designer](https://weareadaptive.com/careers/jobs/?job=3701809)||
 
 
-
+https://weareadaptive.com/careers/jobs/?job=3629507
 
 ## Our Technical Stack 	:woman_technologist: ##
 
