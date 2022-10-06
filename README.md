@@ -3,10 +3,9 @@
 
 | London :uk:  | Barcelona :es: | New York City :us: | Montreal :canada: |
 | ------------- | ------------- | ------------- | ------------- |
-|  |   | [React Developer](https://weareadaptive.com/careers/jobs/?job=3481569) | [React Developer](https://weareadaptive.com/careers/jobs/?job=3524790) |
-| [Java Developer](https://weareadaptive.com/careers/jobs/?job=3388634) | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3100163)  | [Java Developer](https://weareadaptive.com/careers/jobs/?job=3701707) |
-| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629511) | [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629510) |[Lead Java Developer](https://weareadaptive.com/careers/jobs/?job=3701706)| [SRE/DevOps](https://weareadaptive.com/careers/jobs/?job=3629507) |
-|||[UX/UI Designer](https://weareadaptive.com/careers/jobs/?job=3701809)||
+| [Early Careers Programme](https://weareadaptive.com/careers/jobs/?job=4470922) | [Early Careers Programme](https://weareadaptive.com/careers/jobs/?job=4470933) | [Early Careers Programme](weareadaptive.com/careers/jobs/?job=3481569) | [Early Careers Programme](https://weareadaptive.com/careers/jobs/?job=4470909) |
+| [Aeron Specialist](https://weareadaptive.com/careers/jobs/?job=4558194) |  | [Product Owner](https://weareadaptive.com/careers/jobs/?job=4499947) |  |
+|  |  | [Frontend Developer](https://weareadaptive.com/careers/jobs/?job=4411717) |  |
 
 
 https://weareadaptive.com/careers/jobs/?job=3629507
