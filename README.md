@@ -9,8 +9,6 @@
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=4652970) |  | [Frontend Developer](https://weareadaptive.com/careers/jobs/?job=4411717) |  |
 
 
-https://weareadaptive.com/careers/jobs/?job=3629507
-
 ## Our Technical Stack 	:woman_technologist: ##
 
 **_[Stackshare](https://stackshare.io/AFC/adaptive-financial-consulting)_**
