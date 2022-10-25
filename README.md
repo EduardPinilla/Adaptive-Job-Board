@@ -4,8 +4,8 @@
 | London :uk:  | Barcelona :es: | New York City :us: | Montreal :canada: |
 | ------------- | ------------- | ------------- | ------------- |
 |  | [Early Careers Programme](https://weareadaptive.com/careers/jobs/?job=4470933) | [Early Careers Programme](https://weareadaptive.com/careers/jobs/?job=4453024) |  |
-| [Project Manager](https://weareadaptive.com/careers/jobs/?job=4640190) |  |  |  |
 | [Business Operations Analyst](https://weareadaptive.com/careers/jobs/?job=4623170) | [Business Operations Analyst](https://weareadaptive.com/careers/jobs/?job=4642817) |  |  |
+| [Project Manager](https://weareadaptive.com/careers/jobs/?job=4640190) |  |  |  |
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=4652970) |  | [Frontend Developer](https://weareadaptive.com/careers/jobs/?job=4411717) |  |
 
 
