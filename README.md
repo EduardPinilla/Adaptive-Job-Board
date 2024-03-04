@@ -4,8 +4,8 @@
 | London 🇬🇧  | Barcelona 🇪🇸 | New York City 🇺🇸 | Manila 🇵🇭 | Montreal 🇨🇦 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Technical Architect](https://weareadaptive.com/careers/jobs/?job=5527244) | | [Technical Architect](https://weareadaptive.com/careers/jobs/?job=5494186) | [Senior Java Developer](https://weareadaptive.com/careers/jobs/?job=5595292) |  |
-| [Technical Architect (Contract)](https://weareadaptive.com/careers/jobs/?job=5674571) |[DevSecOps](https://weareadaptive.com/careers/jobs/?job=5704480) | [Senior Product Designer](https://weareadaptive.com/careers/jobs/?job=5581997) | [DevSecOps](https://weareadaptive.com/careers/jobs/?job=5648930) | ------------- |
-| [Senior Product Designer](https://weareadaptive.com/careers/jobs/?job=5581997) | ------------- | [Senior Ux/Ui Designer](https://weareadaptive.com/careers/jobs/?job=5596550) | [Frontend Developer](https://weareadaptive.com/careers/jobs/?job=5693300) | ------------- |
+| [Technical Architect (Contract)](https://weareadaptive.com/careers/jobs/?job=5674571) |[DevSecOps](https://weareadaptive.com/careers/jobs/?job=5704480) | [Senior Product Designer](https://weareadaptive.com/careers/jobs/?job=5581997) | [DevSecOps](https://weareadaptive.com/careers/jobs/?job=5648930) | |
+| [Senior Product Designer](https://weareadaptive.com/careers/jobs/?job=5581997) |  | [Senior Ux/Ui Designer](https://weareadaptive.com/careers/jobs/?job=5596550) | [Frontend Developer](https://weareadaptive.com/careers/jobs/?job=5693300) |  |
 
 ## Our Technical Stack 	:woman_technologist: ##
 
