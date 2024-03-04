@@ -1,9 +1,9 @@
 # Adaptive-Job-Board :computer:
 ## Open vacancies at Adaptive Financial Consulting ##
 
-| London :uk:  | Barcelona :es: | New York City :us: | Montreal :canada: |
-| ------------- | ------------- | ------------- | ------------- |
-|  | [Early Careers Programme](https://weareadaptive.com/careers/jobs/?job=4470933) | [Early Careers Programme](https://weareadaptive.com/careers/jobs/?job=4453024) |  |
+| London 🇬🇧  | Barcelona 🇪🇸 | New York City 🇺🇸 | Montreal 🇨🇦 | Manila 🇵🇭
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Technical Architect](https://weareadaptive.com/careers/jobs/?job=5527244) | | [Technical Architect](https://weareadaptive.com/careers/jobs/?job=5494186) |  | [Senior Java Developer](https://weareadaptive.com/careers/jobs/?job=5595292) |
 | [Business Operations Analyst](https://weareadaptive.com/careers/jobs/?job=4623170) | [Business Operations Analyst](https://weareadaptive.com/careers/jobs/?job=4642817) |  |  |
 | [Project Manager](https://weareadaptive.com/careers/jobs/?job=4640190) |  |  |  |
 | [Java Developer](https://weareadaptive.com/careers/jobs/?job=4652970) |  | [Frontend Developer](https://weareadaptive.com/careers/jobs/?job=4411717) |  |
