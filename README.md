@@ -3,7 +3,6 @@
 
 | London 🇬🇧 | Barcelona 🇪🇸 | New York City 🇺🇸 | Manila 🇵🇭 | Montreal 🇨🇦 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-
 | [Technical Architect](https://weareadaptive.com/careers/jobs/?job=5527244) |  | [Technical Architect](https://weareadaptive.com/careers/jobs/?job=5494186) |  |  |
 | [Technical Architect (Contractor)](https://weareadaptive.com/careers/jobs/?job=5674571) |  | [Senior Product Designer](https://weareadaptive.com/careers/jobs/?job=5581997) | [Application Support Analyst L2&L3](https://weareadaptive.com/careers/jobs/?job=4953698)|  |
 | [Senior Product Designer](https://weareadaptive.com/careers/jobs/?job=5581997) |  | [Senior Ux/Ui Designer](https://weareadaptive.com/careers/jobs/?job=5596550) | [Frontend Developer](https://weareadaptive.com/careers/jobs/?job=5693300) |  |
