@@ -9,7 +9,7 @@
 
 ## Our Website ##
 
-**_[WeAreAdaptive](www.weareadaptive.com)_**
+**_[WeAreAdaptive](https://weareadaptive.com/)_**
 
 ## Our Technical Stack 	👩‍💻 ##
 
